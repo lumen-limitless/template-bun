@@ -3,9 +3,5 @@
   "useTabs": false,
   "singleQuote": true,
   "semi": false,
-  "plugins": [
-    "prettier-plugin-organize-imports",
-    "prettier-plugin-packagejson"
-  ],
-  "pluginSearchDirs": false
+  "plugins": ["prettier-plugin-organize-imports", "prettier-plugin-packagejson"]
 }
