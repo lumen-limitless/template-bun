@@ -9,5 +9,6 @@
     "sourceType": "module"
   },
   "rules": {},
-  "root": true
+  "root": true,
+  "ignorePatterns": ["node_modules", "dist", "build"]
 }

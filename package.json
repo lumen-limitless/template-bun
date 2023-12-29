@@ -4,6 +4,7 @@
   "private": true,
   "license": "MIT",
   "author": "lumen-limitless",
+  "type": "module",
   "main": "src/index.ts",
   "scripts": {},
   "dependencies": {},
