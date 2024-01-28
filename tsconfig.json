@@ -19,10 +19,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
 
-    // Some stricter flags
-    "useUnknownInCatchVariables": true,
-    "noPropertyAccessFromIndexSignature": true,
-
     "types": [
       "bun-types" // add Bun global
     ]
